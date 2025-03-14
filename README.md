@@ -5,4 +5,4 @@ informatikkstudent
 som gjør litt av hvert,  
 inkl. prøver useriøse ting
 
-Sjekk ut **nettsiden** min! [CV nettside](https://linn-s-h.github.io/)
+Sjekk ut **nettsiden** min! [CV nettside](https://linn-s-h.github.io/) (Påbegynt)
